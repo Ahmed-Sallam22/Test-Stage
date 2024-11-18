@@ -1,0 +1,58 @@
+{
+  
+    "title": "Registration & Booking at GoStudent",
+    "subtitle": "The leading platform for online tutoring.",
+    "loginPhoneLabel": "LOGIN PHONE NUMBER",
+    "loginPhoneHint": "(preferably the student's)",
+    "contactPhoneLabel": "Contact Phone Number",
+    "contactPhoneHint": "(preferably the parent's)",
+    "emailLabel": "Email",
+    "contactNameLabel": "Contact Name",
+    "billingAddressLabel": "BILLING ADDRESS",
+    "addressPlaceholder": "Address",
+    "nrPlaceholder": "Nr",
+    "postalCodePlaceholder": "Postal code",
+    "cityPlaceholder": "City",
+    "countryPlaceholder": "Country",
+    "monthlySessionsLabel": "Monthly Sessions",
+    "monthlySessionsPlaceholder": "Select Sessions",
+    "paymentMethodTitle": "Select Payment Method",
+    "sepaOption": "SEPA",
+    "secureText": "100% secure payment. All data is encrypted.",
+    "cardHolderPlaceholder": "Card holder",
+    "cardNumberPlaceholder": "Card number",
+    "expiryDatePlaceholder": "MM/YY",
+    "cvcPlaceholder": "CVC",
+
+
+    "overview": "ORDER OVERVIEW",
+    "pay_in_advance": "Pay in advance - EXTRA 5% DISCOUNT",
+    "number_of_sessions": "NUMBER OF SESSIONS P.M.",
+    "regular_price": "REGULAR PRICE",
+    "free": "FREE",
+    "your_price": "YOUR PRICE",
+    "discount": "DISCOUNT 4%",
+    "setup_fee": "Setup fee",
+    "total_pm": "TOTAL P.M.",
+    "terms": "I accept the Terms & Conditions and understand my right of withdrawal as well as the circumstances that lead to a repeal of the same.",
+    "order_now": "Order Now",
+
+    "countries": {
+    "gr": "Greece",
+    "us": "United States",
+    "eg": "Egypt"
+  },
+  "sessionOptions": {
+    "4": "4 Sessions",
+    "8": "8 Sessions",
+    "12": "12 Sessions"
+  },
+  "periods": {
+    "6": "6 MONTHS",
+    "9": "9 MONTHS",
+    "12": "12 MONTHS",
+    "18": "18 MONTHS",
+    "24": "24 MONTHS",
+    "36": "36 MONTHS"
+  }
+}
